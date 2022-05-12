@@ -1,0 +1,53 @@
+.bg-pink{
+    background-color: #f04688;
+    margin-bottom: 20px;
+}
+
+.btn-inscricao{
+    background-color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, 'IBM Plex Sans';
+    font-size: 12px;
+    color: #f04688;
+    font-weight: bold;
+    border-radius: 100px;
+}
+
+.btn-inscricao:hover{
+ background-color: rgb(0, 255, 221);   
+ color:#fff;
+}
+
+.btn-formulario{
+    background-color: #f04688;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, 'IBM Plex Sans';
+    font-size: 12px;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.btn-formulario:hover{
+    background-color: rgb(0, 255, 221);   
+    color:#fff;
+   }
+   
+a:link{
+    font-size: 14px;
+    color: #000;
+    text-align: right;
+    padding-left: 20px;
+    text-decoration: none;
+}
+a:link:hover{
+    color: #f04688;
+    font-size: 16px;
+
+}
+iframe{
+    max-width: 560px;
+    max-height: 315px;
+}
+
+#final{
+    font-size: 12px;
+}
